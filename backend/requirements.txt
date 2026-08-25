@@ -1,0 +1,7 @@
+Django==6.1
+djangorestframework
+djangorestframework-simplejwt
+django-filter
+Pillow
+python-decouple
+django-cors-headers
